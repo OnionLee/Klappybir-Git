@@ -1,3 +1,7 @@
+Made at 2013
+
+Info
+============
 플라피 버드를 Cocos2d-x로 다시 만든 것
 
 TODO 
